@@ -5,6 +5,10 @@
 
 WeDo2.0 Tilt SensorをLEGO(R) SPIKE Prime Hubに接続するプログラムです。
 
+## Movie
+
+https://www.youtube.com/watch?v=eHir-y-nJIY
+
 ## 使い方
 
 プログラムはLEGO Eduication SPIKE Prime専用アプリで動かします。
